@@ -2,9 +2,30 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+.Greetings {
+  position: absolute;
+  width: 80%;
+  margin-top: -900px;
+  z-index: 1;
+}
+
+.App-image {
+  Width: 100%;
   pointer-events: none;
+  z-index: 0;
+  opacity: 0.2;
+}
+
+.The-what{
+  position: relative;
+  width: 80%;
+  margin-top: 10%;
+}
+
+.Formule-1 {
+  margin-top: -1%;
+  position: relative;
+  width: 85%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -35,4 +56,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Mail-logo {
+  width: 35px;
+  height: 35px;
 }
