@@ -10,7 +10,7 @@
 
 .Large-Screen-header {
   font-size: 48px;
-  margin-top: -700px;
+  margin-top: -1500px;
   position: absolute;
   z-index: 1;
 }
@@ -18,21 +18,21 @@
 .App-White-Lo{
   position: absolute;
   width: 45%;
-  margin-top: -470px;
+  margin-top: -970px;
   z-index: 1;
 }
 
 .App-Logo {
   width: 45%;
   position: absolute;
-  margin-top: -470px;
+  margin-top: -970px;
   z-index: 1;
 }
 
 .Greetings {
   position: absolute;
   width: 80%;
-  margin-top: -300px;
+  margin-top: -580px;
   z-index: 1;
 }
 
